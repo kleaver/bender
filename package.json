@@ -1,0 +1,16 @@
+{
+  "name": "bender",
+  "version": "0.0.0",
+  "private": true,
+
+  "author": "meat",
+
+  "description": "Kiss my shiny metal ass.",
+
+  "dependencies": {
+  },
+
+  "engines": {
+    "node": "0.10.x"
+  }
+}
